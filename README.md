@@ -4,7 +4,7 @@ This repository contains a curated list of awesome resources around the state of
 Contributions are welcome and appreciated. 
 
 ## Contents
-1. [Courses & Articles](#courses-and-articles)
+1. [Research Articles](#research-articles)
 2. [Books](#books)
 3. [Tools](#tools)
 4. [News](#news)
@@ -12,7 +12,7 @@ Contributions are welcome and appreciated.
 6. [Companies, Institutes, and Organizations](#companies-institutes-and-organizations)
 
 
-## Courses and Articles
+## Research Articles
 
 ## Books
 
